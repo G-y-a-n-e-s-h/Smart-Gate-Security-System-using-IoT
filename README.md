@@ -73,6 +73,7 @@ The project aims to develop an Advanced Automatic Sliding Door System with enhan
 ## Software Requirements
 
 - **Anaconda**: For Python/R data science and machine learning.
+- **Arduino IDE**: For Arduino Code.
 
 ## Installation and Usage
 
